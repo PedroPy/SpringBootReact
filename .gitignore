@@ -1,0 +1,18 @@
+# Ignorar archivos del IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignorar Node.js (React)
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Ignorar Java/Spring Boot (Maven)
+target/
+*.jar
+*.war
+*.log
+.mvn/wrapper/maven-wrapper.jar
